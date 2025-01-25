@@ -85,9 +85,11 @@ A Lua-based Machine Learning Resolver for game environments that support Lua scr
 ## Important Notes
 
 - **Intended Use**:  
+  Fuck ai for putting this bullshit smh 
   This script is for **educational or personal use only**. Avoid using it in competitive settings or to gain unfair advantages.  
 
 - **Compliance**:  
+  WOMP WOMP FUCK this do what ever the fuck u want AHAHAHHAA
   Ensure adherence to your game’s terms of service to prevent penalties or bans.
 
 ---
